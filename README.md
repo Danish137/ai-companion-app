@@ -239,9 +239,7 @@ Important for long-term companion behavior.
 
 ---
 
-## 📄 License
 
-MIT License
 
 ---
 
