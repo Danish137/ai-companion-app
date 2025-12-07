@@ -1,3 +1,18 @@
+---
+title: AI Companion – Memory & Personality Engine
+emoji: 💬
+colorFrom: blue
+colorTo: purple
+sdk: docker
+sdk_version: "0.0.1"
+app_file: app.py
+pinned: false
+---
+
+# GupPshupp – Memory Extraction + Personality Engine  
+### *AI Companion Assignment – GupPshupp | Built by Danish Akhtar*  
+
+...
 # Guppshupp – Memory Extraction + Personality Engine
 **AI Companion Assignment – Guppshupp | Built by Danish Akhtar**
 
