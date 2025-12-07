@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+.streamlit/
+huggingface/
+.cache/
+logs/
+*.env
+.env
+.pytest_cache/
+.cache/
+
