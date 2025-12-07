@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# GupPshupp – Memory Extraction + Personality Engine  
+# Guppshupp – Memory Extraction + Personality Engine  
 ### *AI Companion Assignment – GupPshupp | Built by Danish Akhtar*  
 
 ...
