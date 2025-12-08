@@ -24,11 +24,15 @@ This project implements a lightweight **AI Companion System** capable of:
 - **Demonstrating** the before/after transformation with persona rewriting
 - **Running** fully in-browser using Streamlit, with Groq LLM powering all logic
 
-This assignment showcases **modular design**, **structured output parsing**, **prompt engineering**, **memory conditioning**, and **personality transformation**.
+This Project **modular design**, **structured output parsing**, **prompt engineering**, **memory conditioning**, and **personality transformation**.
 
 ---
 
 ## 🚀 Live Demo
+This video shows the full workflow:
+
+https://github.com/user-attachments/assets/8f3ef2e6-b324-4b16-a6bd-034e151c70d1
+
 
 👉 **Live App:** [https://huggingface.co/spaces/imdanishakhtar7/ai-companion-app](https://huggingface.co/spaces/imdanishakhtar7/ai-companion-app)
 
